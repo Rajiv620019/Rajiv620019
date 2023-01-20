@@ -4,6 +4,8 @@ About Me:👽
 
 I have completed Bachelor of Engineering in Mechanical Engineering and passionate about blockchain.
 
+I have good knowledge in Java backend (Java, Spring Boot, MySQL, Hibernate,. etc)
+
 I love learning new technologies and interested in trying anything new.
 
 I am currently working on something cool.😉
