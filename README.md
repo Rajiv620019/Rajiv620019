@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there, I am Rajiv👋👩‍💻
 
-<!--
-**Rajiv620019/Rajiv620019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:👽
 
-Here are some ideas to get you started:
+I have completed Bachelor of Engineering in Mechanical Engineering and passionate about blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love learning new technologies and interested in trying anything new.
+
+I am currently working on something cool.😉
+Currently learning Solidity and more new technologies.🌱
+
+Check out my [Portfolio](https://portfolio-website-rajiv.netlify.app/)
+
+How to reach me: [LinkedIn](https://www.linkedin.com/in/rajiv-s-2bb454199/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajiv620019&theme=dracula)
