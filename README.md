@@ -13,5 +13,4 @@ Check out my [Portfolio](https://portfolio-website-rajiv.netlify.app/)
 
 How to reach me: [LinkedIn](https://www.linkedin.com/in/rajiv-s-2bb454199/)
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajiv620019&theme=dracula)
- -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajiv620019&theme=radical)
