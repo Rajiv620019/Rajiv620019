@@ -2,15 +2,13 @@
 
 ### About Me:👽
 
-I have completed my Bachelor's in Mechanical Engineering and passionate about blockchain.
+I have completed my Bachelor's in Mechanical Engineering and passionate about tech
 
 I have good knowledge in Java backend (Java, Spring Boot, MySQL, Hibernate,. etc)
 
-I love learning new technologies and interested in trying anything new.
+I love learning new technologies and interested in trying anything new. 🌱
 
 I am currently working on something cool.😉
-
-Currently learning Solidity, Hardhat, Ether.js, and more.🌱
 
 Check out my [Portfolio](https://portfolio-website-rajiv.netlify.app/)
 
