@@ -6,9 +6,9 @@ I have completed my Bachelor's in Mechanical Engineering and passionate about Bl
 
 I have good knowledge in Java backend (Java, Spring Boot, MySQL, Hibernate,. etc)
 
-I love learning new technologies and interested in trying anything new. 
+I love learning new technologies and interested in trying anything new.🌱
 
-Currently learning Solidity, Hardhat, Ether.js, and more.🌱
+Currently learning Solidity, Hardhat, Ether.js, and more.📖
 
 I am currently working on something cool.😉
 
