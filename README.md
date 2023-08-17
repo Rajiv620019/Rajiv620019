@@ -1,36 +1,65 @@
-# Hi there, I'm Rajiv👋👩‍💻
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rajiv620019.Rajiv620019" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rajiv+S!;" />
+</h1>
 
 ### About Me:👽
 
-I have completed my Bachelor's in Mechanical Engineering and passionate about Blockchain
+<div  align="center">
 
-Skills: (HTML & CSS, JavaScript, React js, Next js, Java, Spring Boot, MySQL, etc...)💥
+  I have completed my Bachelor's in Mechanical Engineering and am passionate about Blockchain
 
-I love learning new technologies and interested in trying anything new.🌱
+Currently building NFT marketplace for utilities💥
 
-Currently learning Solidity, Hardhat, Ether.js, and more.📖
+I love learning new technologies and am interested in trying anything new.🌱
+
+Currently learning Foundry, React Js, Next Js, and more.📖
 
 I am currently working on something cool.😉
+  
+</div>
 
-Check out my [Portfolio](https://portfolio-website-rajiv.netlify.app/)
+<div align="center"> 
+  <a href="mailto:rajiv620019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/rajiv-s-2bb454199" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://portfolio-website-rajiv.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-📫 How to reach me rajiv620019@gmail.com
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=solidity,javascript,html,css,react,next,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,postman,git,github,vscode" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajivs21975342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajivs21975342" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajiv-s-2bb454199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajiv-s-2bb454199" height="30" width="40" /></a>
-<a href="https://instagram.com/rjr_786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rjr_786" height="30" width="40" /></a>
-</p>
+<br/>
+<hr/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rajiv620019&show_icons=true&theme=radical" />
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Rajiv620019&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rajiv620019&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajiv620019&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajiv620019&layout=compact" />
+<br/><br/>
+<hr/>
 
-<img align="left" alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
 
-<img align="left" alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+<br/>
 
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+
+
+
