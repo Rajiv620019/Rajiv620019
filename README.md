@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rajiv+S!;" />
 </h1>
 
-### About Me:👽
+<h3 align="center">A passionate blockchain developer from India IN</h3>
 
 <div  align="center">
 
@@ -15,8 +15,6 @@ Currently building NFT marketplace for utilities💥
 I love learning new technologies and am interested in trying anything new.🌱
 
 Currently learning Foundry, React Js, Next Js, and more.📖
-
-I am currently working on something cool.😉
   
 </div>
 
