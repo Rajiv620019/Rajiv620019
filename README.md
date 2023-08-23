@@ -8,13 +8,13 @@
 
 <div  align="center">
 
-  I have completed my Bachelor's in Mechanical Engineering and am passionate about Blockchain.⛓️
+  I have completed my Bachelor's in Mechanical Engineering and am passionate about **Blockchain**.⛓️
 
-Currently building NFT marketplace for utilities.💥
+Currently building **NFT marketplace for utilities**.💥
 
 I love learning new technologies and am interested in trying anything new.🌱
 
-Currently learning Foundry, React Js, Next Js, and more.📖
+Currently learning **Foundry, React Js, Next Js, and more**.📖
   
 </div>
 
