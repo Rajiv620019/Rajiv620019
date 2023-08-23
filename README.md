@@ -12,7 +12,7 @@
 
 Currently building **NFT marketplace for utilities**.💥
 
-I love learning new technologies and am interested in trying anything new.🌱
+Currently working on **Ethereum**, and looking to explore more on **Polygon & Solana**.🌱
 
 Currently learning **Foundry, React Js, Next Js, and more**.📖
   
