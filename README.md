@@ -1,9 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rajiv620019.Rajiv620019" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rajiv+S!;" />
-</h1>
-
 <h3 align="center">A passionate blockchain developer from India IN 😉</h3>
 
 <div  align="center">
@@ -19,6 +15,9 @@ Currently learning **Foundry, React Js, Next Js, and more**.📖
 </div>
 
 <div align="center"> 
+  <a href="https://twitter.com/RajivS21975342">
+    <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=x&logoColor=blue" />
+  </a>
   <a href="mailto:rajiv620019@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -53,10 +52,4 @@ Currently learning **Foundry, React Js, Next Js, and more**.📖
 
 <br/><br/>
 <hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
 <br/>
-
