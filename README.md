@@ -34,7 +34,7 @@ Currently learning **Foundry, React Js, Next Js, and more**.📖
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=solidity,javascript,html,css,react,vercel,next,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=solidity,javascript,typescript,html,css,react,vercel,next,netlify" /><br>
     <img src="https://skillicons.dev/icons?i=java,mongodb,mysql,tailwindcss,docker,postman,git,github,vscode" />
 </div>
 
