@@ -15,7 +15,7 @@ Currently learning **Foundry, React Js, Next Js, and more**.📖
 </div>
 
 <div align="center"> 
-  <a href="https://twitter.com/RajivS21975342">
+  <a href="https://twitter.com/rajiv_17_">
     <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=x&logoColor=blue" />
   </a>
   <a href="mailto:rajiv620019@gmail.com">
