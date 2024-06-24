@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rajiv620019.Rajiv620019" />
-
 <h3 align="center">A passionate blockchain developer from India IN 😉</h3>
 
 <div  align="center">
