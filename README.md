@@ -1,14 +1,8 @@
-<h3 align="center">A passionate blockchain developer from India IN 😉</h3>
+<h3 align="center">Hey!!! I'm Rajiv 👋</h3>
 
 <div  align="center">
 
-  I have completed my Bachelor's in Mechanical Engineering and am passionate about **Blockchain**.⛓️
-
-Currently building **NFT marketplace for utilities**.💥
-
-Currently working on **Ethereum**, and looking to explore more on **Polygon & Solana**.🌱
-
-Currently learning **Foundry, React Js, Next Js, and more**.📖
+  A passionate developer from India IN 😉
   
 </div>
 
@@ -29,11 +23,11 @@ Currently learning **Foundry, React Js, Next Js, and more**.📖
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🌟 Languages-Frameworks-Tools 🌟</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,solidity,react,next,redux,tailwindcss" /><br>
-    <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,postgres,prisma,aws,docker,postman,git,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,solidity,python,java,react,next,docker,tailwindcss" /><br>
+    <img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,postgres,prisma,aws,postman,git,vercel,figma,vscode" />
 </div>
 
 <br/>
